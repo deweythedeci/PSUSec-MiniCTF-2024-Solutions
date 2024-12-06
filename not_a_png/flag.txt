@@ -1,1 +1,1 @@
- flag{magic_numbers_are_real}
+flag{magic_numbers_are_real}
